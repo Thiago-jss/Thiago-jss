@@ -25,3 +25,32 @@ interesses_futuros:
   - c#
 linux: "Usuário de Arch Linux, distro minimalista"
 objetivo: "Desenvolver sistemas robustos, seguros e eficientes, sempre aprendendo e evoluindo"
+
+![Python](https://img.shields.io/badge/Python‑3.10‑E57373?style=for-the-badge&logo=python&logoColor=white)
+
+
+## 📊 Meus GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=gruvbox" alt="GitHub statcard" />
+  </a>
+  <br/>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=gruvbox" alt="Top Langs" />
+  </a>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=gruvbox" alt="Trophies" />
+</p>
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=gruvbox" />
+  </a>
+</p>
+
