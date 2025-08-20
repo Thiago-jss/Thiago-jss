@@ -36,10 +36,8 @@
   <img src="https://img.shields.io/badge/FastAPI-009688-E57373?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Django-092E20-E57373?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/SQL-003B57-E57373?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED-E57373?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Contribuições-15%20PRs-blue?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Issues-8-red?style=for-the-badge&logo=github" alt="Issues"/>
-</p>
+  </p>
 
 ---
 
