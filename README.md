@@ -4,7 +4,14 @@
 </p>
 
 ---
+## 📫 Contato
 
+<p align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-jesus-99b36a375/) &nbsp;   
+  [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagojss11@gmail.com)
+  &nbsp;
+</p>
 
 ## 🧠 Sobre mim
 
@@ -44,12 +51,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=thiago-jss&show_icons=true&theme=gruvbox" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-jss&layout=compact&theme=gruvbox" alt="Top Languages"/>
-  </a>
+  
+![ThiagoGitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-jss&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-jss&layout=compact&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiago-jss&theme=radical)
 </p>
 
 ---
@@ -61,26 +68,4 @@
 </p>
 
 ---
-
-## 📫 Contato
-
-<p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-jesus-99b36a375/)  
-  &nbsp;
-  
-  [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagojss11@gmail.com)
-  &nbsp;
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white)](https://seu-portfolio.com)
-  
-</p>
-
----
-
-<p align="center">
-🔗 <a href="#projetos-em-destaque">Projetos</a> • 
-<a href="#estatísticas-do-github">Stats</a> • 
-<a href="#contato">Contato</a>
-</p>
 
