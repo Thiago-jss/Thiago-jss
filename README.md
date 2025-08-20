@@ -20,7 +20,7 @@
 🔹 Crio **APIs escaláveis** com **FastAPI** e trabalho com **desenvolvimento web** em **Django**, sempre focando em **código limpo**.  
 🔹 Estudo **Inteligência Artificial**, **Cloud Computing (AWS)** e desenvolvimento de **dashboards** (Power BI, Dash, Streamlit).  
 🔹 Desejo expandir minha atuação para **Java** e **C#** no backend e, a longo prazo, migrar para **Blockchain**.  
-🔹 Trabalho bem em equipe com metodologias **Scrum & Kanban**, participando ativamente de planning, sprints e code reviews.  
+🔹 Trabalho bem em equipe com metodologias **Scrum & Kanban**, participando ativamente de planning e sprints.  
 🔹 Tenho **proatividade**, **boa comunicação com stakeholders** e **foco na solução de problemas**, buscando sempre entregar valor real.  
 
 
