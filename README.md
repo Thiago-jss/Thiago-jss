@@ -1,10 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Thiago Jesus</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DC2F00&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=fff&fontSize=40" alt="banner"/>
-</p>
-
----
-## 📫 Contato
+📫 Contato
 
 <p align="center">
   
