@@ -30,9 +30,8 @@
 
 | Projeto                                     | Descrição                                                                          | Tech Stack                    |
 |---------------------------------------------|------------------------------------------------------------------------------------|-------------------------------|
-| [API de Autenticação com FastAPI](https://github.com/seu-usuario/api-autenticacao)      | Sistema de login JWT com refresh token, validação de permissões e rotas seguras.  | Python · FastAPI · PostgreSQL |
-| [Blog API RESTful](https://github.com/seu-usuario/blog-api)                             | CRUD de posts, categorias e comentários, com upload de imagens e filtros avançados.| Python · Django · SQLite      |
-| [Microserviço de Notificações](https://github.com/seu-usuario/notificacoes-ms)           | Envia e-mail e push notifications via RabbitMQ; deploy em Docker Compose.         | Python · Flask · RabbitMQ     |
+| [API de Autenticação com FastAPI](https://github.com/Thiago-jss/ApiDelivery)      | Sistema de login JWT com refresh token, validação de permissões e rotas seguras de pedidos delivery.  | Python  FastAPI  Docker Sqlite |
+
 
 ---
 
