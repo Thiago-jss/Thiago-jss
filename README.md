@@ -55,11 +55,4 @@
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiago-jss&theme=gruvbox&column=4" alt="Trophies"/>
-</p>
-
----
 
