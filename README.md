@@ -12,7 +12,7 @@
 
 🔹 **Natural de Minas Gerais**, graduando em **Análise e Desenvolvimento de Sistemas** (Anhanguera).  
 🔹 Usuário **intermediário de Linux** (Arch), especialista em customização e automação de ambiente.  
-🔹 Crio **APIs escaláveis** com **FastAPI** e trabalho com **desenvolvimento web** em **Django**, sempre focando em **código limpo**.  
+🔹 Crio **APIs escaláveis** com **FastAPI** e trabalho com **desenvolvimento web** em **Django**, sempre focando em entregar uma solução para o cliente.  
 🔹 Estudo **Inteligência Artificial**, **Cloud Computing (AWS)** e desenvolvimento de **dashboards** (Power BI, Dash, Streamlit).  
 🔹 Desejo expandir minha atuação para **Java** e **C#** no backend e, a longo prazo, migrar para **Blockchain**.  
 🔹 Trabalho bem em equipe com metodologias **Scrum & Kanban**, participando ativamente de planning e sprints.  
